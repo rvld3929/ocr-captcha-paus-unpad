@@ -1,4 +1,4 @@
-# Evaluate the Relevance of CAPTCHA usage in PAuS Padjad-jaran University Using OCR Deep Learning 
+# Evaluate the Relevance of CAPTCHA usage in PAuS Padjadjaran University Using OCR Deep Learning 
 CAPTCHA as a tool to distinguish between humans and computers is used to prevent system breaches and other type of cyber crimes. Padjadjaran University itself uses CAPTCHA for the Padjadjaran Authentication System (PAuS) which is used to prevent these issues in the future. This paper aims to see the relevance of the existing CAPTCHA with Optical Character Recognition Deep Learning using CRNN architecture with a CTC Layer. By using only 1100 CAPTCHA data for model building from scratch (without pre-trained models), it was found that out of 100 CAPTCHAs tested, the accuracy is 97.25%. This accurate result creates questions regarding the relevancy of the CAPTCHA used by PAuS. Therefore, it is necessary to use a newer version of CAPTCHA that can fulfil the purpose of authentication.
 
 ![Picture 1](https://github.com/rvld3929/ocr-captcha-paus-unpad/assets/159246458/1fdc846c-b2f9-4c28-b829-94e6fc041c03)
